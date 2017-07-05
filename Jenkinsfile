@@ -11,6 +11,10 @@ pipeline {
           "Stage 2": {
             echo 'hello'
             
+          },
+          "Stage 3": {
+            echo 'no 3'
+            
           }
         )
       }
