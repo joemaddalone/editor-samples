@@ -23,6 +23,10 @@ pipeline {
           "Stage 5": {
             echo '#5'
             
+          },
+          "Stage 6": {
+            echo '6'
+            
           }
         )
       }
